@@ -1,4 +1,4 @@
-# Copied from https://github.com/github/gitignore/blob/main/Python.gitignore
+# Copied and modified from https://github.com/github/gitignore/blob/main/Python.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -27,6 +27,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# VS Code Stuff
+.vscode/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
