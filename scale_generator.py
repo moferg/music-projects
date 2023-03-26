@@ -3,3 +3,15 @@
 
 # Imports
 import constants
+import random
+
+# Variables
+rand_note = random.choice(constants.NOTES)
+rand_scale = random.choice(constants.SCALES)
+
+
+def main():
+    print(rand_note + ' ' + rand_scale)
+
+
+main()
