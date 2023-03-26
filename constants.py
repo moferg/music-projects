@@ -9,3 +9,5 @@ CHORDS_ADV = ['major', 'minor', 'sixth', 'minor sixth', 'six nine', 'major seven
               'diminished seventh', 'ninth', 'ninth flat five', 'ninth sharp five', 'major ninth', 'minor ninth', 'minor eleventh', 'thirteenth', 'major thirteenth', 'minor thirteenth', 'suspended fourth']
 SCALES = ['major', 'harmonic minor', 'melodic minor', 'natural minor', 'pentatonic major', 'pentatonic minor', 'pentatonic blues',
           'pentatonic neutral', 'phrygian', 'lydian', 'mixolydian', 'aeolian', 'locrian', 'diatonic', 'diminished', 'dominant 7th']
+CHORD_PROG_MAJ = ['I', 'ii', 'iii', 'IV', 'V', 'vi', 'vii']
+CHORD_PROG_MIN = ['i', 'ii', 'III', 'iv', 'V', 'VI', 'VII']
